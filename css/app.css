@@ -1,0 +1,66 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body{
+      background-image: url(/assets/ameen-fahmy-mXpTl4jNKiA-unsplash.jpg);
+}
+
+.section-one{
+      padding-top: 6em;
+}
+
+.section-one h1{
+      text-align: center;
+      padding-bottom: 0.5em;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 40px;
+      text-transform: uppercase;
+      color: rgb(255, 255, 255);
+      background-color: rgba(0, 0, 0, 0.3);
+      padding-top: 0.5em;
+      width: 6em;
+      margin: auto;
+      border-radius: 8px 8px 0 0;
+}
+.container{
+      padding: 1em;
+      background-color: rgba(0, 0, 0, 0.3);
+      box-shadow: 0px 1px 6px 1px rgb(255, 255, 255,0.4);
+      margin: auto;
+      width: 25em;
+      border-radius: 0.7em;
+      height: 22em;
+}
+
+input{
+      font-size: 20px;
+      width: 18em;
+      margin-top: 1.5em;
+      padding-left: 0.5em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      height: 30px;
+}
+
+h2{
+      text-align: center;
+      padding-top: 2em;
+      font-family: 'Arial Random';
+      color: white;
+}
+
+h3{
+      font-family:cursive;
+      padding-top: 2em;
+      font-size: 15px;
+      color: #858585;
+}
+
+span{
+      font-size: 17px;
+      font-family: 'Arial Random';
+      color: #ffd900;
+}
